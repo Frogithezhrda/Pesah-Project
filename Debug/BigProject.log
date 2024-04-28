@@ -1,0 +1,22 @@
+﻿  file_helper.c
+C:\Users\Cyber_User\source\repos\BigProject\BigProject\file_helper.c(17,22): warning C4013: 'isFileContent' undefined; assuming extern returning int
+C:\Users\Cyber_User\source\repos\BigProject\BigProject\file_helper.c(20,30): warning C4129: '{': unrecognized character escape sequence
+C:\Users\Cyber_User\source\repos\BigProject\BigProject\file_helper.c(77,24): warning C4389: '==': signed/unsigned mismatch
+C:\Users\Cyber_User\source\repos\BigProject\BigProject\file_helper.c(118,24): warning C4389: '==': signed/unsigned mismatch
+C:\Users\Cyber_User\source\repos\BigProject\BigProject\file_helper.c(158,24): warning C4389: '==': signed/unsigned mismatch
+C:\Users\Cyber_User\source\repos\BigProject\BigProject\file_helper.c(214,24): warning C4389: '==': signed/unsigned mismatch
+C:\Users\Cyber_User\source\repos\BigProject\BigProject\file_helper.c(277,28): warning C4389: '==': signed/unsigned mismatch
+C:\Users\Cyber_User\source\repos\BigProject\BigProject\file_helper.c(277,66): warning C4389: '==': signed/unsigned mismatch
+C:\Users\Cyber_User\source\repos\BigProject\BigProject\file_helper.c(331,24): warning C4389: '==': signed/unsigned mismatch
+C:\Users\Cyber_User\source\repos\BigProject\BigProject\file_helper.c(382,17): warning C4098: 'duplicateFile': 'void' function returning a value
+C:\Users\Cyber_User\source\repos\BigProject\BigProject\file_helper.c(391,17): warning C4098: 'duplicateFile': 'void' function returning a value
+C:\Users\Cyber_User\source\repos\BigProject\BigProject\file_helper.c(395,35): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+C:\Users\Cyber_User\source\repos\BigProject\BigProject\file_helper.c(404,13): warning C4098: 'duplicateFile': 'void' function returning a value
+C:\Users\Cyber_User\source\repos\BigProject\BigProject\file_helper.c(375,1): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [1]'
+C:\Users\Cyber_User\source\repos\BigProject\BigProject\file_helper.c(433,35): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+C:\Users\Cyber_User\source\repos\BigProject\BigProject\file_helper.c(481,24): warning C4389: '==': signed/unsigned mismatch
+  prog.c
+C:\Users\Cyber_User\source\repos\BigProject\BigProject\prog.c(13,1): warning C4005: 'PHONE_LEN': macro redefinition
+C:\Users\Cyber_User\source\repos\BigProject\BigProject\contact.h(2): message : see previous definition of 'PHONE_LEN'
+  Generating Code...
+  BigProject.vcxproj -> C:\Users\Cyber_User\source\repos\BigProject\Debug\BigProject.exe

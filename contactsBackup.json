@@ -1,0 +1,6 @@
+[
+{"name": "omer", "phoneNum": "0508818833", "coolMessage": "dsad", "mail": "sho@gmail.com", "password": "8765", "length": 5, "isAdmin": 1},
+{"name": "harel", "phoneNum": "1234252555", "coolMessage": "Yo", "mail": "harel@gmail.com", "password": "8765", "length": 5, "isAdmin": 0},
+{"name": "koral", "phoneNum": "0509122333", "coolMessage": "koral", "mail": "koral@gmail.com", "password": "pevso", "length": 5, "isAdmin": 0},
+{"name": "hello", "phoneNum": "0508818833", "coolMessage": "hello", "mail": "hello@gmail.com", "password": "765", "length": 6, "isAdmin": 0}
+]

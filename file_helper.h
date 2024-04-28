@@ -1,0 +1,14 @@
+void fileWrite(char* name, char* phoneNum, char* coolMessage, char* mail, char* password, int isAdmin);
+void fileRead();
+int isUsernameInFile(char* username);
+int isUserAdmin(char* username);
+int isPassword(char* password, char* username);
+int deleteFile(char* username);
+void duplicateFile();
+void deleteAndRename();
+int isPhoneNumberInFile(char* phone);
+int isMailInFile(char* mail);
+void printUserInfo(char* username, char* phone, char* email, char* coolMessage);
+void getUserInfo(char* inputUsername);
+void insertTextIntoFile();
+void modifyFile();
